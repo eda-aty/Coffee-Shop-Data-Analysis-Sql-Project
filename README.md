@@ -13,8 +13,9 @@ Recommendations
 
 
 
-## 🎯 Project Overview:
+### 🎯 Project Overview:
 I developed a SQL-based analysis using PostgreSQL to extract actionable insights from Maven Roastery coffee shop sales data. This project is focused on querying and analyzing, and aims to produce data-driven strategies for sales marketing, customer segmentation, and consumption efficiency. This project analyzes the sales transactions from a coffee shop, stored in the Transactions table.
+
 ## Dataset :
 This analysis is based on the coffee shop business from January 2023 - June 2023 in Kaggle.
 Coffeshop dataset includes transaction records that include details about transactions and products, including transaction ID, sales date/time, product type and detail, product categories, transaction count, unit price, store location. 
@@ -39,10 +40,11 @@ Coffeshop dataset includes transaction records that include details about transa
 🔍 Filters and Visualizations
 📄 Insights and Recommendations
 
-##Dashboard:
+## Dashboard:
 You can reach this projects  Looker Studio Dashboard from this link
 
 ## 📊 Key İnsights:
+
 From the analysis above, it can be seen that the coffee shop received 149,116 orders in 2023. This resulted in over 214 thousand units of products sold, generating a total revenue of $698,812.
 
 
