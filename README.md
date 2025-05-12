@@ -2,7 +2,7 @@
 ## ☕Coffee Shop Sales Analysis with SQL
 
 Table of Contents:
-* [Project Overview](#Project-Overview]
+* [Project Overview](#Project-Overview)
 * [DataSet](#data-set)
 * [Tools and Methodology](#tools-and-methodology)
 * [Project Objectives](#project-objectives)
@@ -17,19 +17,19 @@ Table of Contents:
 I developed a SQL-based analysis using PostgreSQL to extract actionable insights from Maven Roastery coffee shop sales data. This project is focused on querying and analyzing, and aims to produce data-driven strategies for sales marketing, customer segmentation, and consumption efficiency. This project analyzes the sales transactions from a coffee shop, stored in the Transactions table.
 
 ## Dataset :
-This analysis is based on the coffee shop business from January 2023 - June 2023 in Kaggle.
+This analysis is based on the coffee shop business from January 2023 - June 2023 in Kaggle  [here](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales).
 Coffeshop dataset includes transaction records that include details about transactions and products, including transaction ID, sales date/time, product type and detail, product categories, transaction count, unit price, store location. 
 
 
 
 
 ## 🛠️  Tools and Methedology: PostgreSQL, LookerStudio
-#Data Collection: Kaggle data set
-#Data transformation: Data cleaning using Postgresql queries 
-#Performed data modelling : Using  PostgreSQL to analyse transactions table in a dataset
-#KPI’S determaning: Total sales, Total orders, Total transactions quantity
-#Adding sql queries: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
-#Data visualization:  Using Looker Studio which included project objectives
+*Data Collection: Kaggle data set
+*Data transformation: Data cleaning using Postgresql queries 
+*Performed data modelling : Using  PostgreSQL to analyse transactions table in a dataset
+*KPI’S determaning: Total sales, Total orders, Total transactions quantity
+*Adding sql queries: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
+*Data visualization:  Using Looker Studio which included project objectives
 
 
 ## 🔧 Project Objectives:
