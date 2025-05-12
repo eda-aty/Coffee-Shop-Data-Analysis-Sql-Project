@@ -1,6 +1,6 @@
 
-#Coffee Shop Sales Analysis with SQL
-☕ Coffee Shop Sales Analysis with SQL
+## ☕Coffee Shop Sales Analysis with SQL
+
 Table of Contents:
 Project Overview
 DataSet
@@ -13,37 +13,36 @@ Recommendations
 
 
 
-🎯 Project Overview:
+## 🎯 Project Overview:
 I developed a SQL-based analysis using PostgreSQL to extract actionable insights from Maven Roastery coffee shop sales data. This project is focused on querying and analyzing, and aims to produce data-driven strategies for sales marketing, customer segmentation, and consumption efficiency. This project analyzes the sales transactions from a coffee shop, stored in the Transactions table.
-Dataset :
-This analysis is based on the coffee shop business from January 2023 - June 2023
-in Kaggle.
+## Dataset :
+This analysis is based on the coffee shop business from January 2023 - June 2023 in Kaggle.
 Coffeshop dataset includes transaction records that include details about transactions and products, including transaction ID, sales date/time, product type and detail, product categories, transaction count, unit price, store location. 
 
 
 
 
-🛠️  Tools and Methedology: PostgreSQL, LookerStudio
-Data Collection: Kaggle data set
-Data transformation: Data cleaning using Postgresql queries 
-Performed data modelling : Using  PostgreSQL to analyse transactions table in a dataset
-KPI’S determaning: Total sales, Total orders, Total transactions quantity
-Adding sql queries: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
-Data visualization:  Using Looker Studio which included project objectives
+## 🛠️  Tools and Methedology: PostgreSQL, LookerStudio
+#Data Collection: Kaggle data set
+#Data transformation: Data cleaning using Postgresql queries 
+#Performed data modelling : Using  PostgreSQL to analyse transactions table in a dataset
+#KPI’S determaning: Total sales, Total orders, Total transactions quantity
+#Adding sql queries: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
+#Data visualization:  Using Looker Studio which included project objectives
 
 
-🔧 Project Objectives:
+## 🔧 Project Objectives:
 📈  Sales & Revenue Analysis
 📅  Time Series & Trend Analysis
 🛍️ Product Performance
 🌍  Store ( Location) Analysis
 🔍 Filters and Visualizations
-
 📄 Insights and Recommendations
-Dashboard:
+
+##Dashboard:
 You can reach this projects  Looker Studio Dashboard from this link
 
-📊 Key İnsights:
+## 📊 Key İnsights:
 From the analysis above, it can be seen that the coffee shop received 149,116 orders in 2023. This resulted in over 214 thousand units of products sold, generating a total revenue of $698,812.
 
 
@@ -75,7 +74,7 @@ The product with the highest average revenue in the "Astoria" store is Premium B
 The "Green beans" product has the lowest sales performance with a sales volume of 134 units and a sales revenue of $1,340.
 
 
-📄  Recommendations:
+## 📄  Recommendations:
 
 Pazartesi ve Cuma günleri artan yoğunluğu yönetmek için yeterli personel ve stok tahsis etmeniz önemli ,özellikle sabah 7'den 10'a kadar olan en yoğun saatlerde. Yoğun satış saatleri sabah olduğundan bu saatlerde pazarlama kampanyalarını ve promosyonları düzenlemeyi düşünmek de iyi olabilir.
 
