@@ -1,5 +1,5 @@
-# coffeeshop_sql_project
-Coffee Shop Sales Analysis with SQL
+
+#Coffee Shop Sales Analysis with SQL
 ☕ Coffee Shop Sales Analysis with SQL
 Table of Contents:
 Project Overview
