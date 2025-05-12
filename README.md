@@ -2,7 +2,7 @@
 ## ☕Coffee Shop Sales Analysis with SQL
 
 Table of Contents:
-* [Project Overview](###Project-Overview)
+* [Project Overview](#Project-Overview)
 * [DataSet](#data-set)
 * [Tools and Methodology](#tools-and-methodology)
 * [Project Objectives](#project-objectives)
@@ -39,11 +39,16 @@ Coffeshop dataset includes transaction records that include details about transa
 
 
 ## 🔧 Project Objectives:
-*📈  Sales & Revenue Analysis
-*📅  Time Series & Trend Analysis
+📈  Sales & Revenue Analysis
+
+📅  Time Series & Trend Analysis
+
 🛍️ Product Performance
+
 🌍  Store ( Location) Analysis
+
 🔍 Filters and Visualizations
+
 📄 Insights and Recommendations
 
 ## Dashboard:
