@@ -3,13 +3,13 @@
 
 Table of Contents:
 * [Project Overview](#Project-Overview)
-* [DataSet](#data-set)
-* [Tools and Methodology](#tools-and-methodology)
-* [Project Objectives](#project-objectives)
+* [DataSet](#Data-set)
+* [Tools and Methodology](#Tools-and-Methodology)
+* [Project Objectives](#Project-Objectives)
 * [EDA and Business Tasks](#eda-and-business-task)
-* [Dashboard](#dashboard)
-* [Key İnsights](#key-insights)
-* [Recommendations](#recommendations)
+* [Dashboard](#Dashboard)
+* [Key İnsights](#Key-İnsights)
+* [Recommendations](#Recommendations)
 
 
 
