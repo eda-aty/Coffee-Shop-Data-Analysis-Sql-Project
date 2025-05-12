@@ -24,12 +24,17 @@ Coffeshop dataset includes transaction records that include details about transa
 
 
 ## 🛠️  Tools and Methedology: PostgreSQL, LookerStudio
-*Data Collection: Kaggle data set
-*Data transformation: Data cleaning using Postgresql queries 
-*Performed data modelling : Using  PostgreSQL to analyse transactions table in a dataset
-*KPI’S determaning: Total sales, Total orders, Total transactions quantity
-*Adding sql queries: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
-*Data visualization:  Using Looker Studio which included project objectives
+,*,Data Collection: Kaggle data set
+
+,*,Data transformation: Data cleaning using Postgresql queries 
+
+,*,Performed data modelling : Using  PostgreSQL to analyse transactions table in a dataset
+
+,*,KPI’S determaning: Total sales, Total orders, Total transactions quantity
+
+,*,Adding sql queries: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
+
+,*,Data visualization:  Using Looker Studio which included project objectives
 
 
 ## 🔧 Project Objectives:
