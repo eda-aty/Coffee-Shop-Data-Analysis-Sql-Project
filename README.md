@@ -39,6 +39,7 @@ Coffeshop dataset includes transaction records that include details about transa
 
 
 ## 🔧 Project Objectives:
+
 📈  Sales & Revenue Analysis
 
 📅  Time Series & Trend Analysis
@@ -59,12 +60,12 @@ The interactive Looker Studio Dashboard can be viewed [here](https://lookerstudi
 - From the analysis above, it can be seen that the coffee shop received **149,116 orders** in 2023. This resulted in over** 214 thousand units of products sold**, generating a **total revenue of $698,812**.
 
 
-From the above analysis **Coffee**, **Tea**, **Bakery** categories contribute the most to the total sales but **” Pacakage Chocolate** is the least performing category.
+- From the above analysis **Coffee**, **Tea**, **Bakery** categories contribute the most to the total sales but **” Pacakage Chocolate** is the least performing category.
 
 
-**Brewed Chai Tea** is the most sold product, and apart from the coffee and tea category, **Hot Chocolate** is a product type that stands out with a different category. It may be useful to take into consideration when organizing campaigns for customers regardless of the categories.
+- **Brewed Chai Tea** is the most sold product, and apart from the coffee and tea category, **Hot Chocolate** is a product type that stands out with a different category. It may be useful to take into consideration when organizing campaigns for customers regardless of the categories.
 
-**Top selling products by  total_qty_sold**:
+- **Top selling products by  total_qty_sold**:
 
 "Brewed Chai tea" : 26250
 "Gourmet brewed coffee" : 25973
@@ -72,33 +73,32 @@ From the above analysis **Coffee**, **Tea**, **Bakery** categories contribute th
 "Brewed Black tea" : 17462
 "Hot chocolate"	: 17457
 
-Each store generated over $200,000 in sales. **“Hell’s Kitchen”** led the way with $236,511, accounting for 33.8% of total sales.
+- Each store generated over $200,000 in sales. **“Hell’s Kitchen”** led the way with $236,511, accounting for 33.8% of total sales.
 
-The products in the top three categories have an average price of $20, and the product with the highest unit price appears to be coffee beans, with price differences depending on the branch.
-There is an upward trend in sales throughout the months, except for a decline in sales in February.
+- The products in the top three categories have an average price of $20, and the product with the highest unit price appears to be coffee beans, with price differences depending on the branch.
+- There is an upward trend in sales throughout the months, except for a decline in sales in February.
 Most of the sales occur on weekends. In addition, the highest sales of the month were achieved in the "Hell's Kitchen" store on the 13th day of the month.
 Orders seem to peak between **7am - 10am**. The highest sales traffic occurs at 10am, then begins to decline, reaching its lowest point around 8pm.
 
-The product with the highest unit price is **“Premium Beans”** and it makes a very high contribution to the coffee shop’s income by selling 496 units. 
+- The product with the highest unit price is **“Premium Beans”** and it makes a very high contribution to the coffee shop’s income by selling 496 units. 
 **Chai Tea**, on the other hand, is the product with the lowest unit price, but its sales amount is 443 units, which is a very high number, and as seen in the above analyses, the tea category was the second category that made the highest contribution to the total sales.
 
-The product with the highest average revenue in the **"Astoria"** store is **Premium Beans** with $32, while in the **"Hell's Kitchen"** store,** "Premium Beans"** is at the top with an average revenue of $57, and in the **"Lower Manhattan"** store, **"Premium Beans"** is again at the top with $34.
+- The product with the highest average revenue in the **"Astoria"** store is **Premium Beans** with $32, while in the **"Hell's Kitchen"** store,** "Premium Beans"** is at the top with an average revenue of $57, and in the **"Lower Manhattan"** store, **"Premium Beans"** is again at the top with $34.
 
-The **"Green beans"** product has the lowest sales performance with a sales volume of 134 units and a sales revenue of $1,340.
+- The **"Green beans"** product has the lowest sales performance with a sales volume of 134 units and a sales revenue of $1,340.
 
 
 ## 📄  Recommendations:
 
-**Monday** and **Friday** günleri artan yoğunluğu yönetmek için yeterli personel ve stok tahsis etmeniz önemli ,özellikle sabah 7'den 10'a kadar olan en yoğun saatlerde. Yoğun satış saatleri sabah olduğundan bu saatlerde pazarlama kampanyalarını ve promosyonları düzenlemeyi düşünmek de iyi olabilir.
+- 1) **Take Advantage of Rush Hours** : It is important to have adequate staff and stock distribution for increased rush hours on **Monday** and **Friday**, especially from 7am to 10am, which is the busiest time to distribute. It may also be a good idea to plan marketing campaigns and promotions for these components of the morning rush hours.
 
 
-Özel kahve çekirdeklerinin sipariş miktarı yüksek olduğundan bu ürünlere özgü stand tanıtımı, tadım saatleri veya promosyonlar ekleyerek hem gelirinizi ve karlılığınızı arttırabilecek denemelerde bulunabilir hem de yeni veriler elde ederek daha iyi veri analiz şansı yakalayabilirsiniz.
+- 2) **Increase Your Order Efficiency**: Since the order volume of specialty coffee beans is high, you can experiment with stand promotions, tasting hours or promotions specific to these products to increase your income and profitability, and you can also get a better data analysis opportunity by obtaining new data.
 
 
-Müşteri sadakat programı oluşturabilir, böylece hedef kitlenizi cinsiyet, yaş, tercih detayları gibi başlıklarla daha detaylı tanıma ve müşteri bağlılığı yaratma fırsatı bulabilirsiniz.
+- 3) **Create a customer loyalty program** : Create a marketing program for your target audience, which consists of customers who provide regular orders or have a fixed contribution to your sales. In this way, you can have the opportunity to get to know them in more detail with titles such as gender, age, preference details and create more profit and customer loyalty.
 
-
-Lokasyon bazlı sosyal medya reklamları çıkarabilir veya Astoria lokasyonunda "Dark chocolate Lg" gibi en çok sipariş edilen ürün yanında başka uygun bir ürün eklenmesi ile paket kampanyası yaparak satış gelirlerinizi katlamayı deneyebilirsiniz.
+- 4) **Develop location-specific social media strategies** : You can run location-based social media ads or try to multiply your sales revenues by running a package campaign with another suitable product along with the most ordered product, such as **"Dark chocolate Lg"**  in the Astoria location.
 
 
 
