@@ -1,7 +1,7 @@
 
 ## ☕Coffee Shop Sales Analysis with SQL
 
-Table of Contents:
+#Table of Contents:
 * [Project Overview](#Project-Overview)
 * [DataSet](#Data-set)
 * [Tools and Methodology](#Tools-and-Methodology)
