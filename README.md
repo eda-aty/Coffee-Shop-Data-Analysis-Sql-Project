@@ -1,7 +1,7 @@
 
 ## ☕Coffee Shop Sales Analysis with SQL
 
-#Table of Contents
+# Table of Contents
 * [Project Overview](#project-overview)
 * [DataSet](#dataset)
 * [Tools and Methodology](#tools-and-methodology)
@@ -25,17 +25,17 @@ Coffeshop dataset includes transaction records that include details about transa
 
 ## 🛠️  Tools and Methedology: PostgreSQL, LookerStudio
 
--**Data Collection**: Kaggle data set
+- **Data Collection**: Kaggle data set
 
--**Data transformation**: Data cleaning using Postgresql queries 
+- **Data transformation**: Data cleaning using Postgresql queries 
 
--**Performed data modelling** : Using  PostgreSQL to analyse transactions table in a dataset
+- **Performed data modelling** : Using  PostgreSQL to analyse transactions table in a dataset
 
--**KPI’S determaning**: Total sales, Total orders, Total transactions quantity
+- **KPI’S determaning**: Total sales, Total orders, Total transactions quantity
 
--**Adding sql queries**: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
+- **Adding sql queries**: Solved some business problems and extracting Month, Day, Hour, and Day of Week from transaction_date and transaction_time. 
 
--**Data visualization**:  Using Looker Studio which included project objectives
+- **Data visualization**:  Using Looker Studio which included project objectives
 
 
 ## 🔧 Project Objectives:
@@ -56,7 +56,7 @@ The interactive Looker Studio Dashboard can be viewed [here](https://lookerstudi
 
 ### 📊 Key İnsights:
 
--From the analysis above, it can be seen that the coffee shop received **149,116 orders** in 2023. This resulted in over** 214 thousand units of products sold**, generating a **total revenue of $698,812**.
+- From the analysis above, it can be seen that the coffee shop received **149,116 orders** in 2023. This resulted in over** 214 thousand units of products sold**, generating a **total revenue of $698,812**.
 
 
 From the above analysis **Coffee**, **Tea**, **Bakery** categories contribute the most to the total sales but **” Pacakage Chocolate** is the least performing category.
