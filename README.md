@@ -13,17 +13,17 @@
 
 
 
-### 🎯 Project Overview:
+# 🎯 Project Overview:
 I developed a SQL-based analysis using PostgreSQL to extract actionable insights from Maven Roastery coffee shop sales data. This project is focused on querying and analyzing, and aims to produce data-driven strategies for sales marketing, customer segmentation, and consumption efficiency. This project analyzes the sales transactions from a coffee shop, stored in the Transactions table.
 
-## Dataset :
+# Dataset :
 This analysis is based on the coffee shop business from January 2023 - June 2023 in Kaggle  [here](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales).
 Coffeshop dataset includes transaction records that include details about transactions and products, including transaction ID, sales date/time, product type and detail, product categories, transaction count, unit price, store location. 
 
 
 
 
-## 🛠️  Tools and Methedology: PostgreSQL, LookerStudio
+# 🛠️  Tools and Methedology: PostgreSQL, LookerStudio
 
 - **Data Collection**: Kaggle data set
 
@@ -38,7 +38,7 @@ Coffeshop dataset includes transaction records that include details about transa
 - **Data visualization**:  Using Looker Studio which included project objectives
 
 
-## 🔧 Project Objectives:
+# 🔧 Project Objectives:
 
 📈  Sales & Revenue Analysis
 
@@ -52,10 +52,10 @@ Coffeshop dataset includes transaction records that include details about transa
 
 📄 Insights and Recommendations
 
-### Dashboard:
+# Dashboard:
 The interactive Looker Studio Dashboard can be viewed [here](https://lookerstudio.google.com/s/rOovr7ZG6aU).
 
-### 📊 Key İnsights:
+# 📊 Key İnsights:
 
 - From the analysis above, it can be seen that the coffee shop received **149,116 orders** in 2023. This resulted in over** 214 thousand units of products sold**, generating a **total revenue of $698,812**.
 
@@ -88,17 +88,17 @@ Orders seem to peak between **7am - 10am**. The highest sales traffic occurs at 
 - The **"Green beans"** product has the lowest sales performance with a sales volume of 134 units and a sales revenue of $1,340.
 
 
-## 📄  Recommendations:
+# 📄  Recommendations:
 
-- 1) **Take Advantage of Rush Hours** : It is important to have adequate staff and stock distribution for increased rush hours on **Monday** and **Friday**, especially from 7am to 10am, which is the busiest time to distribute. It may also be a good idea to plan marketing campaigns and promotions for these components of the morning rush hours.
-
-
-- 2) **Increase Your Order Efficiency**: Since the order volume of specialty coffee beans is high, you can experiment with stand promotions, tasting hours or promotions specific to these products to increase your income and profitability, and you can also get a better data analysis opportunity by obtaining new data.
+-  **Take Advantage of Rush Hours** : It is important to have adequate staff and stock distribution for increased rush hours on **Monday** and **Friday**, especially from 7am to 10am, which is the busiest time to distribute. It may also be a good idea to plan marketing campaigns and promotions for these components of the morning rush hours.
 
 
-- 3) **Create a customer loyalty program** : Create a marketing program for your target audience, which consists of customers who provide regular orders or have a fixed contribution to your sales. In this way, you can have the opportunity to get to know them in more detail with titles such as gender, age, preference details and create more profit and customer loyalty.
+-  **Increase Your Order Efficiency**: Since the order volume of specialty coffee beans is high, you can experiment with stand promotions, tasting hours or promotions specific to these products to increase your income and profitability, and you can also get a better data analysis opportunity by obtaining new data.
 
-- 4) **Develop location-specific social media strategies** : You can run location-based social media ads or try to multiply your sales revenues by running a package campaign with another suitable product along with the most ordered product, such as **"Dark chocolate Lg"**  in the Astoria location.
+
+-  **Create a customer loyalty program** : Create a marketing program for your target audience, which consists of customers who provide regular orders or have a fixed contribution to your sales. In this way, you can have the opportunity to get to know them in more detail with titles such as gender, age, preference details and create more profit and customer loyalty.
+
+-  **Develop location-specific social media strategies** : You can run location-based social media ads or try to multiply your sales revenues by running a package campaign with another suitable product along with the most ordered product, such as **"Dark chocolate Lg"**  in the Astoria location.
 
 
 
